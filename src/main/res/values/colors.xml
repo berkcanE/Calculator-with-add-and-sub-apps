@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_button_light">#BB86FC</color>
+    <color name="gray_top">#4a4a4a</color>
+    <color name="gray_text">#525252</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="gray_background_light">#C5C6C6</color>
+    <color name="black">#000000</color>
+    <color name="bar">#000000</color>
+    <color name="dark_primary">#525252</color>
+    <color name="application_bar">#303332</color>
+    <color name="background_color">#303332</color>
+    <color name="button_text_darkMode">#FF03DAC5</color>
+    <color name="dark_green">#FF018786</color>
+</resources>

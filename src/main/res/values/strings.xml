@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MainApp</string>
+    <string name="text_to_revert">Enter text to revert</string>
+    <string name="firstArgumentNumber">first argument</string>
+    <string name="secondArgumentNumber">second argument</string>
+    <string name="runButton">run</string>
+    <string name="revertButton">revert</string>
+    <string name="operationText">operation</string>
+    <string name="resultText">result</string>
+    <string name="operationNone">none</string>
+    <string name="resultNone">none</string>
+    <string name="RevertedText">LOADING</string>
+    <string name="backButton">back</string>
+</resources>
